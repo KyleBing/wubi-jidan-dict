@@ -1,3 +1,6 @@
+![Cover](https://github.com/KyleBing/wubi-jidan-dict/blob/master/imgs/Cover.png)
+
+
 # 极点五笔码表集合
 
 > Rime 鼠须管码表 https://github.com/KyleBing/rime-wubi86-jidan
